@@ -22,7 +22,7 @@ button:focus {
 }
 
 body {
-	background: url(../img/main-bg-artloft.jpg);
+	background: url('../img/main-bg-artloft.jpg');
 	font-family: 'FuturaBookC';
 }
 
@@ -35,7 +35,7 @@ body {
 .header {
 	height: 930px;
 	padding: 70px 0 0 0;
-	background: url(../img/bg-artloft.png) no-repeat;
+	background: url('../img/bg-artloft.png') no-repeat;
 }
 
 .wrap {
@@ -117,33 +117,33 @@ body {
 	display: inline-block;
 	width: 21px;
 	height: 20px;
-	background: url(../icons/vk.png);
+	background: url('../icons/vk.png');
 }
 
 .social-list__item--icon-vk:hover {
-	background: url(../icons/vk-hover.png);
+	background: url('../icons/vk-hover.png');
 }
 
 .social-list__item--icon-insta {
 	display: inline-block;
 	width: 21px;
 	height: 20px;
-	background: url(../icons/insta.png);
+	background: url('../icons/insta.png');
 }
 
 .social-list__item--icon-insta:hover {
-	background: url(../icons/insta-hover.png);
+	background: url('../icons/insta-hover.png');
 }
 
 .social-list__item--icon-fb {
 	display: inline-block;
 	width: 21px;
 	height: 20px;
-	background: url(../icons/fb.png);
+	background: url('../icons/fb.png');
 }
 
 .social-list__item--icon-fb:hover {
-	background: url(../icons/fb-hover.png);
+	background: url('../icons/fb-hover.png');
 }
 
 .bottom-line {
@@ -156,7 +156,7 @@ body {
 }
 
 .address {
-	background: url(../icons/location.png) no-repeat;
+	background: url('../icons/location.png') no-repeat;
 	padding-left: 20px;
 	margin-right: 35px;
 }
